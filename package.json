@@ -1,0 +1,23 @@
+{
+  "name": "wegwijsinhethogeronderwijs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StijnDeBrauwer/wegwijsInHetHogerOnderwijs.git"
+  },
+  "devDependencies": {
+    "sass": "^1.34.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StijnDeBrauwer/wegwijsInHetHogerOnderwijs/issues"
+  },
+  "homepage": "https://github.com/StijnDeBrauwer/wegwijsInHetHogerOnderwijs#readme"
+}
